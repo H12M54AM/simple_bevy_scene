@@ -1,5 +1,7 @@
 # simple_bevy_scene
 
+![Current Scene](./public/Current%20Scene.png)
+
 My first Bevy project from a tutorial. Everything works and most things make sense. I have been watching [Logic Projects](https://www.youtube.com/watch?v=_uKWIYEGBjs) start his 1st part in making his own game.
 
 This project is not that, but it deffinatley showed me how the setup process of a Bevy project works. 
